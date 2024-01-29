@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Сергей Касмынин=======================================================================================================================================QA Engineer-----------* 🌍  I'm based in Moscow* 🖥️  See my portfolio at [Тестироваие интернет-магазина](http://github.com/Nowskas/qa-engineer-project-84)* ✉️  You can contact me at [nowskasnow@gmail.com](mailto:nowskasnow@gmail.com)* 🚀  I'm currently working on [CodeBattle](http://codebattle.hexlet.io/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Сергей Касмынин=======================================================================================================================================QA Engineer-----------* 
+🌍  I'm based in Moscow* 
+🖥️  See my portfolio at [Тестироваие интернет-магазина](http://github.com/Nowskas/qa-engineer-project-84)* 
+✉️  You can contact me at [nowskasnow@gmail.com](mailto:nowskasnow@gmail.com)* 
+🚀  I'm currently working on [CodeBattle](http://codebattle.hexlet.io/)
 
 ### Skills
 
