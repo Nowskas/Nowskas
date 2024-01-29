@@ -1,5 +1,5 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
-# Привет, меня зовут Сергей Касмынин
+# Привет, меня зовут Сергей!
 - QA Engineer
 - 🌍  Живу в г.Москва
 - 🖥️  Можно посмотреть успешно завершённые проекты по тестированию [Тестироваие интернет-магазина](http://github.com/Nowskas/qa-engineer-project-84), [Тестироваие в продакшене](http://github.com/Nowskas/qa-engineer-project-85)
@@ -16,3 +16,6 @@
 
 
 <p align="left"> <a href="https://www.github.com/https://ru.hexlet.io/u/nowskas" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/kosmosserega" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<a href="https://t.me/nowskas" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
+    </a>
